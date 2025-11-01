@@ -18,5 +18,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/JASILUK/leetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3194-find-words-containing-character](https://github.com/JASILUK/leetCode/tree/master/3194-find-words-containing-character) |
+## Hash Table
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/JASILUK/leetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
