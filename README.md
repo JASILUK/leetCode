@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/JASILUK/leetCode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/JASILUK/leetCode/tree/master/0169-majority-element) |
 | [3194-find-words-containing-character](https://github.com/JASILUK/leetCode/tree/master/3194-find-words-containing-character) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/JASILUK/leetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
@@ -27,9 +28,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JASILUK/leetCode/tree/master/0169-majority-element) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JASILUK/leetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/JASILUK/leetCode/tree/master/0657-robot-return-to-origin) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/JASILUK/leetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/JASILUK/leetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/JASILUK/leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
