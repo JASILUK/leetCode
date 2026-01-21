@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/JASILUK/leetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/JASILUK/leetCode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/JASILUK/leetCode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JASILUK/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/JASILUK/leetCode/tree/master/3194-find-words-containing-character) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JASILUK/leetCode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/JASILUK/leetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
