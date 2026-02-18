@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JASILUK/leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JASILUK/leetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JASILUK/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0748-shortest-completing-word](https://github.com/JASILUK/leetCode/tree/master/0748-shortest-completing-word) |
 | [3194-find-words-containing-character](https://github.com/JASILUK/leetCode/tree/master/3194-find-words-containing-character) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/JASILUK/leetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/JASILUK/leetCode/tree/master/0013-roman-to-integer) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/JASILUK/leetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0657-robot-return-to-origin](https://github.com/JASILUK/leetCode/tree/master/0657-robot-return-to-origin) |
+| [0748-shortest-completing-word](https://github.com/JASILUK/leetCode/tree/master/0748-shortest-completing-word) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JASILUK/leetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3194-find-words-containing-character](https://github.com/JASILUK/leetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JASILUK/leetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/JASILUK/leetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JASILUK/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0748-shortest-completing-word](https://github.com/JASILUK/leetCode/tree/master/0748-shortest-completing-word) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JASILUK/leetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
