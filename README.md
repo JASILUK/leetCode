@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JASILUK/leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JASILUK/leetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JASILUK/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/JASILUK/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0748-shortest-completing-word](https://github.com/JASILUK/leetCode/tree/master/0748-shortest-completing-word) |
 | [3194-find-words-containing-character](https://github.com/JASILUK/leetCode/tree/master/3194-find-words-containing-character) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/JASILUK/leetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JASILUK/leetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/JASILUK/leetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JASILUK/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/JASILUK/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0748-shortest-completing-word](https://github.com/JASILUK/leetCode/tree/master/0748-shortest-completing-word) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/JASILUK/leetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JASILUK/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/JASILUK/leetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
